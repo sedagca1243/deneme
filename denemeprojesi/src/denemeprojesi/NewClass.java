@@ -12,7 +12,7 @@ package denemeprojesi;
 public class NewClass { 
     public static void main(String[] args) {
         boolean c=true;
-        
+        int a=5;
     }
    
 }
